@@ -53,3 +53,9 @@ button {
 button:hover {
   background: darkred;
 }
+.subtext {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #ffcccb;
+  text-shadow: 0 0 5px red;
+}
